@@ -2,8 +2,13 @@
 
 A responsive movie discovery web application inspired by The Movie Database (TMDB) with modern UI/UX design.
 
-![MovieDB Clone Screenshot]<img width="929" alt="image" src="https://github.com/user-attachments/assets/b4b2aad8-4b0f-47b4-864f-cf4ef1c514e6" />
+![MovieDB Clone Screenshot]
+<br> 
+
+<img width="929" alt="image" src="https://github.com/user-attachments/assets/b4b2aad8-4b0f-47b4-864f-cf4ef1c514e6" />
+---
 <img width="823" alt="image" src="https://github.com/user-attachments/assets/660b9dd5-0cdc-40db-8d25-4435b3035201" />
+---
 <img width="722" alt="image" src="https://github.com/user-attachments/assets/ca8aefff-ce05-49ca-8309-caf67f19509c" />
 
 <br>
@@ -47,4 +52,4 @@ To run locally:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/moviedb-clone.git
+git clone https://github.com/your-username/TMDB-clone.git
